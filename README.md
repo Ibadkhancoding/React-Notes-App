@@ -4,7 +4,7 @@ A simple Notes App built with React. You can add notes, delete them, and keep th
 
 ## Live Demo
 
-[View Live Demo](YOUR_LIVE_DEMO_URL)
+[View Live Demo](https://react-notes-app-psi-amber.vercel.app/)
 
 ## What I Used
 
