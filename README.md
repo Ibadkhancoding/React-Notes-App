@@ -1,27 +1,53 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# React + Vite
+# React Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Notes App built with React. You can add notes, delete them, and keep them saved even after refreshing the page.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View Live Demo](YOUR_LIVE_DEMO_URL)
 
-## React Compiler
+## What I Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* JavaScript
+* Tailwind CSS
+* Vite
+* localStorage
+* Lucide React
 
-## Expanding the ESLint configuration
+## What It Can Do
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# React-Notes-App
->>>>>>> 33eaa75f4b7f51c2feb44a563302e0643eaf3f61
-=======
-# React-Notes-App
+* Add notes
+* Delete notes
+* Save notes in localStorage
+* Load saved notes after refresh
+* Responsive design
 
+## What I Practiced
 
-Meooowww gok gok gok
->>>>>>> b385f628f124664582a7759295e7797ed50dedd4
+This project helped me get better at:
+
+* `useState`
+* `useEffect`
+* Props
+* Components
+* `map()` and `filter()`
+* localStorage
+* Responsive UI
+
+## Run It Locally
+
+```bash
+git clone https://github.com/Ibadkhancoding/React-Notes-App.git
+cd React-Notes-App
+npm install
+npm run dev
+```
+
+## About
+
+I'm Muhammad Ibad Khan, a self-taught Front-End Web Developer from Karachi, Pakistan.
+
+I'm currently building React projects, improving my skills, and looking for junior developer and internship opportunities.
+
+[GitHub](https://github.com/Ibadkhancoding)
